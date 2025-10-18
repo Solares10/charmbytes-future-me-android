@@ -1,3 +1,3 @@
-package com.example.cutetimecapsule.viewmodel
+package com.charmbytes.futureme.viewmodel
 import androidx.lifecycle.ViewModel
 class DetailViewModel: ViewModel()
