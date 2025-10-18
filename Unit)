@@ -1,0 +1,1 @@
+@Composable fun CuteCapsuleTheme(content:@Composable()- { MaterialTheme(content = content) }
