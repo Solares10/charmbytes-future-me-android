@@ -1,4 +1,5 @@
 package com.charmbytes.futureme.data.repository
+
 import com.charmbytes.futureme.data.model.Capsule
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.Dispatchers

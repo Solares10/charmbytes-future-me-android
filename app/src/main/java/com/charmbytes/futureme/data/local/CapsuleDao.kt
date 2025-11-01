@@ -1,4 +1,5 @@
 package com.charmbytes.futureme.data.local
+
 import androidx.room.Dao
 import com.charmbytes.futureme.data.model.Capsule
 import kotlinx.coroutines.flow.Flow

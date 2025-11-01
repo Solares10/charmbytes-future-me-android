@@ -1,4 +1,5 @@
 package com.charmbytes.futureme.data.local
+
 import androidx.room.Database
 import android.room.Room
 import androidx.room.RoomDatabase

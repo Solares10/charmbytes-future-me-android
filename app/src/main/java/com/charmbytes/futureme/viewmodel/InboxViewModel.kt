@@ -1,4 +1,5 @@
 package com.charmbytes.futureme.viewmodel
+
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.charmbytes.futureme.data.CapsuleRepository
